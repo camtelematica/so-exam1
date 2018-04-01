@@ -4,7 +4,7 @@
 
 **Codigo** A00328064
 
-![][1]
+![][so-exam1/conexion putty.PNG]
 
-[1]: Documentos/s1.png
+
 
