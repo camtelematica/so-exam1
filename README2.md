@@ -4,7 +4,7 @@
 
 **Codigo** A00328064
 
-![][so-exam1/conexion putty.PNG]
+![][so-exam1/conexion_putty.PNG]
 
 
 
