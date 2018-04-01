@@ -4,4 +4,7 @@
 
 **Codigo** A00328064
 
-![](Documentos\s1.png)
+![][1]
+
+[1]:Documentos/s1.png
+
