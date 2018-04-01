@@ -6,5 +6,5 @@
 
 ![][1]
 
-[1]:Documentos/s1.png
+[1]: Documentos/s1.png
 
