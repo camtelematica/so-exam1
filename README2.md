@@ -4,4 +4,4 @@
 
 **Codigo** A00328064
 
-![ejemplo](Documentos\s1.png)
+![](Documentos\s1.png)
