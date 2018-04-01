@@ -4,4 +4,4 @@
 
 **Codigo** A00328064
 
-![ejemplo](C:\Users\cam-c\Desktop\SEPTIMO SEMESTRE\SISTEMAS OPERATIVOS\Parcial1\capturas de pantalla\conexion putty.PNG)
+![ejemplo](C:\Users\cam-c\Desktop\SEPTIMO SEMESTRE\SISTEMAS OPERATIVOS\Parcial1\capturas de pantalla\conexion putty.png)
